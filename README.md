@@ -18,18 +18,6 @@ The following steps were performed to build the prediction model:
 - Matplotlib, Seaborn (Data visualization)
 - Scikit-learn (Machine learning model implementation)
 
-## Installation
-Clone the repository and install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-Run the script to train and test the model:
-```bash
-python house_price_prediction.py
-```
-
 ## Results
 The trained Linear Regression model provides insights into house price trends and predictions based on input features.
 
